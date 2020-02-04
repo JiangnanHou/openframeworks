@@ -4,4 +4,4 @@
 ## Description
 An example program running.
 ## Screenshots
-![screenshot](Assignment_2/img/run.gif)
+![screenshot](/Assignment_2/img/run.gif)
