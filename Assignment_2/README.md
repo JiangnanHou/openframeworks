@@ -1,7 +1,7 @@
 # 3DPrimitivesExample
 ## C++
-![c++](/img/4to6.png)
+![c++](/Assignment_2/img/4to6.png)
 ## Description
 An example program running.
 ## Screenshots
-![screenshot](/img/run.gif)
+![screenshot](Assignment_2/img/run.gif)
