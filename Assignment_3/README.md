@@ -19,4 +19,4 @@ The story background of the game is a story from Italo Calvino's book Invisible 
 
 In the game, users are going see a woman running away and vanish at some point. Users need to build roads to the point and set up tall walls to prevent the woman from running away again. The woman will reappear at another location after the user finishes building, so the chase is going to be endless. The users will never catch the woman, but seeing the labyrinth, the trap they've been building over time, they are supposed to catch a reflection of their ugly desires, the selfishness and blindness. This game is meant for anyone who enjoys a reflective story, a game not for winning.
 
-<!-- ![screenshot](/img/run.gif) -->
+![p3](/img/ProjectConcept/p3.jpeg)
