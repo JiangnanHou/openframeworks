@@ -1,5 +1,7 @@
 # Project Concept
 ## Project 1
+I chose the poem The South is Like Shakespeare by Chinese American Poet Yu Xinqiao as the material for my visualization. This poem was also used as lyrics for a song after the same name by Chinese musician Moxi Zishi, who I once worked with on this album. The poem depicts a fascinating landscape of south China with the memory of youth love. I love both the poem and the song at the first sight, so I decide to use the song as the background music for the visual storytelling.
+There are going to be 5-6 main scenes according to the structure of the poem. By the visual elements of river, bridge, rain, mists, fountain, starlight, kites, red umbrella, handkerchief, young girls, swallow, bee hive and so on, I will create a beautiful sweet and touching animation in order to tell a poetic story. 
 
 <!-- ![c++](/img/4to6.png) -->
 
