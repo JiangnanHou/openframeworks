@@ -1,3 +1,3 @@
 # Face:
-![shapes](/img/face.png)
-![shapes](/img/face.gif)
+![face](/img/face.jpeg)
+![face](/img/face.gif)
