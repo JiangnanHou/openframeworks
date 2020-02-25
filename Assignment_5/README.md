@@ -1,3 +1,2 @@
 # Sound and Polygon:
-![face](/img/face.jpeg)
-![face](/img/face.gif)
+[![sound](img/pr.png)](https://youtu.be/exoNFufkJpg)
