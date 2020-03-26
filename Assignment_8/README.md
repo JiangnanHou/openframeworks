@@ -1,4 +1,4 @@
-# Assignment 8: UI & oFx Matrix
+# Assignment 8: External Events
 ![](/img/a8.png)
 I use current temperature, wind speed, pressure, current time and sunrise time today in New York to tweak the visualization. 
 
