@@ -1,6 +1,5 @@
 # Project2: Weather Visualization
-![](/img/p2.gif)
-
+<p align="center"><img src="/img/p2.gif"></p>
 This is a visualization of current weather in New York. Using primitive 3D shapes, 2D polyline and type, I created this poster-like animated scene to demonstrate the weather. I was trying to make the visualization not too literal, but still left some subtle connection of how each property would be represented in the real world.
 
 ![](/img/p2day.jpeg)
