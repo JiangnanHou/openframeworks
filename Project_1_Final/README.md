@@ -25,4 +25,4 @@ The question I have for now: is there a good way to incorporate animations in OF
 ![](/img/f8.png)
 
 Click the image below to watch a demo video.
-[![project1](/img/f1.png)](https://youtu.be/moPrlcicqnQ)
+[![project1](/img/f1.png)](https://youtu.be/rAY2vWfhaD0)
